@@ -164,12 +164,12 @@ section {
 
 .section-title {
     font-size: 55px;
-    display: inline-block;
-    padding: 0 100px 20px 100px;
-    border-bottom: 3px solid;
+    color: #024e76;
     margin-bottom: 35px;
-    color: #024e76;    
-}
+    padding: 0 100px 20px 100px;
+    display: inline-block;
+    border-bottom: 3px solid;
+  }
 
 .primary-border {
     border-color: #fce138;
@@ -255,7 +255,8 @@ section {
     font-size: 32px;
 }
 
-.contact-info p, .contact-info address {
+.contact-info p, 
+.contact-info address {
     margin: 20px 0;
     line-height: 1.5;
     font-size: 20px;
